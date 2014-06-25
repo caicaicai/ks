@@ -114,6 +114,7 @@ void main(void) {
    m = i;
    do{
    cout&lt;&lt;"*";
+   m--;
    }while(m!=0)
    cout&lt;&lt;endl;
  }
