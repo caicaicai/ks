@@ -69,6 +69,7 @@ function replace(s,dest){
 			<form onsubmit="highlight(this.s.value);return false;">
 			<input name="s" id="s" title="搜索内容："/><input type="submit" value="搜索"/>
 			</form>
+			<a href="/english/xueba.php">学霸提供</a>
 			<li>翻译部分</li>
 <pre>
 Unit 1
