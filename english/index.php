@@ -183,7 +183,6 @@ Unit 11
 5.以一定的速度:at a set speed
 6.在职培训:on-the-job training
 </pre>
-		</ul>
 		<li>阅读理解</li>
 <pre>
 Unit 1 
@@ -197,6 +196,8 @@ Friend or Foe(敌人)?
 Unit 4
 Animal Factories
 </pre>
+</ul>
+
 		</div>
 	</div>
 
