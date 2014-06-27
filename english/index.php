@@ -26,7 +26,7 @@ function highlight(s){
   var r=/{searchHL}(({(?!\/searchHL})|[^{])*){\/searchHL}/g
   t=t.replace(r,"<span class='highlight'>$1</span>");
   obj.innerHTML=t;
-  alert("搜索到关键词"+cnt+"处")
+  alert("搜索到关键词 "+cnt+" 处")
 }
 function loopSearch(s,obj){
   var cnt=0;
