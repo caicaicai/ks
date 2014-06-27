@@ -195,6 +195,62 @@ Friend or Foe(敌人)?
 
 Unit 4
 Animal Factories
+[答案]1.suffer 2.welfare 3.transporten 4.production 5.painfully 6.awareness 7.meat 8.destruction
+
+Unit 5
+A Boy and His Tree
+[答案]
+toys |apples
+a house |branches
+a boat |trunk
+a place to lean on and rest |roots
+
+Unit 7
+I Want a Wife
+[答案]F ,T ,T ,F ,F
+
+Unit 8
+Supermarket Proposal
+[答案]
+0.how romantically and suprisingly her husband proposed toher in the supermarket.
+1.flowers
+2.an engagement ring
+3.a tuxedo
+4.a guitar
+5.a black dress
+6.a string trio
+7.candles and hors d'oeuvres
+
+Unit 10
+Why Do Some Babies Thoroughly Enjoy a Good Game of Peek-a-boo?
+[答案]:答案太长了，懒得打，这题绝对不会考！！
+
+Unit 11
+Useless Homework
+[答案]
+1.D:The headmasters 2.C:parents... 3.B:it is often... 4.D:Tes of millions... 5.A:Puttion... 6.C:homework should...  
+</pre>
+
+<li>听力</li>
+<pre>
+Unit 6
+A:He will go on with his studies.
+B:In a supermarket
+C:Because his eyesight is poor
+A:He is planning to lose weight
+D:He'll have a nice meal
+
+Unit 9
+C:English
+D:A taxi
+A:Taking some fresh air
+B:Because he's ill
+B:Go to see a film
+
+In the United States,...
+1.young 2.part 3.camping 4.twice 5.while
+
+
 </pre>
 </ul>
 
