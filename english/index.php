@@ -240,6 +240,10 @@ C:Because his eyesight is poor
 A:He is planning to lose weight
 D:He'll have a nice meal
 
+At the __ of a new year,...
+1.beginning 2.plans 3.treat 4.manager 5.common
+---------
+
 Unit 9
 C:English
 D:A taxi
@@ -249,8 +253,72 @@ B:Go to see a film
 
 In the United States,...
 1.young 2.part 3.camping 4.twice 5.while
+</pre>
 
+<li>选择</li>
+<pre>
+Unit 1
+1.He rolledup his sleeves to "exhibit" the scar;
+2."Communication" is very important in building up good interpersonal relationship.
+3.There are many "inconsistencies" in your proposal,which makes it very difficult for us to understand.
+4.Many students are quite unsatisfied with the Student Union,so it is high time to "reform" it.
+5.You should always "stick" to your own principles although there are so many temptations.
 
+Unit 2
+1.We were not in Paris at first but we flew to Athens "via" Paris.
+2.You can't "ignore" the fact that many criminals never go to prison.
+3.The new program is designed to "tempt" young people "to" study engineering.
+4.The army has remained "loyal to" the government.
+5.My momory's not "reliable" these days and I always forget something.
+6.Baggage Condition 2 alse "requires" that the transport company, authority or hotel should have been informed in writing.
+
+Unit 4
+1.The girl was "adopted" by a farmer when she was four years old.
+2.My parents invited their friends to their 30th wedding "anniversary".
+3.There will be "occasional" showers during the day.
+4.More than two thousand fans are expected to "scramble" for tickets.
+5.The males in the herd protect the "females" and the young.
+
+Unit 5
+1.They plan to "recruit" several new members to the club next year.
+2.Reading an English original is a "tremendous" task for beginners.
+3.There are altogether four "candidates" for this presidential election.
+4.She had twisted her ankle and was "limping".
+5.A well-known professor "delivered" a lecture on ecology yesterday in the auditorium of NanJing University.
+6.She won a "scholarship" to study in Harverd University.
+
+Unit 7
+1.Does your job "fulfill" your expectations?
+2.I "paid" 200 yuan for my MP3.
+3.The change in climate may "affect" your health.
+4.It's amazing how soon you "adapted" to your new boss.
+5.Men hesitate to "express" their feelings of depression,anger,and fear.
+6.It is a heavy burden for those single mothers to "rear" their children alone.
+
+Unit 8
+1.You are unlikely to succeed unless you "follow" his advice.
+2.When they found the boy in the forest,he had "come in" be used to the wild life there.
+3.Never "fall in" love before you are preared.
+4.He chose a tie which would "match" his suit.
+5.She spent the "whole" day washing and cleaning.
+6.He "whispered" to his classmate in the librery in order not to disturb others.
+
+Unit 10
+1.The Red Croll's "primary" concernis to preserve and protect human life.
+2.The present international situation is no longer "manipulated" by several super powers.
+3.A series of border incidents would "indvitably" lead the two countries to war.
+4.She tried to appeal to our "emotion" rather than to our reason.
+5.Increasing the number of women in top management jobs will be a slow "process".
+6.A city built on an island is easily "defensible" in times of war.
+
+Unit 11
+BDDBAD
+1.What is &5 "equal" to in US dollars?
+2.This job requires "intellectual"faculties and great patience.
+3.My main objection "to" the plan is that it would be too expensive.
+4.Women "tend" to live longer than men.
+5."Mash" the fruit up with a fork so that the baby can eat it.
+6.Though Jack is an introverted student,he took the "initiative" in making acquaintances.
 </pre>
 </ul>
 
