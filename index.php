@@ -14,7 +14,7 @@
 		<div class="content">
 			<ul>
 				<li><a href="/cpp">c++</a></li>
-				<li><a href="">英语</a></li>
+				<li><a href="/english">英语</a></li>
 				<li><a href="">计算机导论</a></li>
 			</ul>
 		</div>
