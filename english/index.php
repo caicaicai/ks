@@ -312,7 +312,6 @@ Unit 10
 6.A city built on an island is easily "defensible" in times of war.
 
 Unit 11
-BDDBAD
 1.What is &5 "equal" to in US dollars?
 2.This job requires "intellectual"faculties and great patience.
 3.My main objection "to" the plan is that it would be too expensive.
