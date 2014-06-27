@@ -128,8 +128,75 @@ Unit 5
 5.修一门课:take a course
 6.从大学毕业:graduate from university
 </pre>
-			</ul>
+<pre>
+Unit 7
+1.Wolfgang Amadeus Mozart "was regarded as a musical genius" (被认为是一个音乐天才).
+2.These students have learned to "adapt to the new environment"(适应这个新环境).
+3.The audience "responded to his speech with thunderous applause"(对他的演讲报以雷鸣般的掌声).
+4.As a matter of fact,happiness "is not equated with money"(不与金钱等同).
 
+1.have positive self-concept:有积极的自我意识
+2.put other concerns out of the picture:将其他事情置之度外
+3.at the same speed:以同样速度
+4.家庭的基本开支:the basic bill of the family
+5.养育孩子:child rearing
+6.自我感觉良好:to feel good about oneself
+</pre>
+<pre>
+Unit 8
+1.Because the exam is in two weeks'time,"my part-time job must give way to preparation for it"(我得暂时放下兼职工作，全力准备考试了).
+2.After many years in the field of computer science, I now finally "have come to realize how important English is"(意识到英语是多么重要了).
+3.He "pretended to be sick"(假装病了)so that he could stay at home instead of going to school.
+4.The police broke into the house and "found out that there were two thieves"(发现有两个小偷)in the conrner of the kitchen.
+
+1.a perfect match:天作之合
+2.shed tears:流泪
+3.sweet nothings:甜蜜的琐事
+4.实实在在的生活:real business of living
+5.婚姻纪念日:wedding anniversary
+6.生活调味品:the spice of life
+</pre>
+<pre>
+Unit 10
+1.He "acted out his promise"(时间自己的诺言)by fulfilling the task in the limited time.
+2.After her graduation,my daughter "prefers to go and study in the United States"(希望去美国读书).
+3.He climbed to the top of the tower,"regardless of danger"(不顾危险).
+4.The high winds "set off a lot of car alarms"(使得很多汽车的报警器响起来).
+
+1.the protection of home:家庭的保护
+2.under the watchful eyes of an adult:在成人的看管下
+3.爱探究的大脑:a questioning mind
+4.有利地形:a vantage point
+5.还就之旅:a nostalgic visit
+</pre>
+<pre>
+Unit 11
+1.With such a weak heart,"she was lucky to come through the operation"(她幸运的过了手术关).
+2."They decided to carry on their work" in spite of the bad weather(他们决定继续工作).
+3.The freshman was "unable to adjust himself to the new college environment"(无法适应新的大学环境).
+4.The people who love you "are worthbeing loved by you"(值得被你所爱).
+
+1.all sorts of lines:各行各业
+2.highly original work:高度创新的工作
+3.a sturdy soul:坚定的人
+4.宽广的见识:a broad view
+5.以一定的速度:at a set speed
+6.在职培训:on-the-job training
+</pre>
+		</ul>
+		<li>阅读理解</li>
+<pre>
+Unit 1 
+DO You Speak British or American?
+[答案]D:origin,B:f,A:underwear,C:trousers,C:lovely,D:"Have any change?"
+
+Unit 2
+Friend or Foe(敌人)?
+[答案]C:A screen problem...,D:After Dark,A:They can protect the screen.,D:They are rubbish and trouble-makers,B:They hole back the operation of other programs.,C:Install the most reliable...
+
+Unit 4
+Animal Factories
+</pre>
 		</div>
 	</div>
 
